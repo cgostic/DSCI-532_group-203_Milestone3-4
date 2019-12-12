@@ -48,7 +48,11 @@ install.packages("https://cran.r-project.org/src/contrib/gghighlight_0.1.0.tar.g
 # sf
 install.packages("https://cran.r-project.org/src/contrib/sf_0.8-0.tar.gz", type="source", repos=NULL)
 # tidyverse
-install.packages("https://cran.r-project.org/src/contrib/tidyverse_1.3.0.tar.gz", type="source", repos=NULL)
+#install.packages("https://cran.r-project.org/src/contrib/tidyverse_1.3.0.tar.gz", type="source", repos=NULL)
+# tidyr
+install.packages("https://cran.r-project.org/src/contrib/tidyr_1.0.0.tar.gz", type="source", repos=NULL)
+# purrr
+install.packages("https://cran.r-project.org/src/contrib/purrr_0.3.3.tar.gz", type="source", repos=NULL)
 # dplyr
 install.packages("https://cran.r-project.org/src/contrib/dplyr_0.8.3.tar.gz", type="source", repos=NULL)
 
