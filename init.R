@@ -46,9 +46,11 @@ install.packages("https://cloud.r-project.org/src/contrib/Archive/future/future_
 # gghighlight
 install.packages("https://cran.r-project.org/src/contrib/gghighlight_0.1.0.tar.gz", type="source", repos=NULL)
 # sf
-install.packages("https://cran.r-project.org/src/contrib/sf_0.8-0.tar.gz", type="source", repos=NULL)
-# tidyverse
-#install.packages("https://cran.r-project.org/src/contrib/tidyverse_1.3.0.tar.gz", type="source", repos=NULL)
+install.packages("https://cran.r-project.org/src/contrib/Archive/sf/sf_0.3-1.tar.gz", type="source", repos=NULL)
+# rgdal
+install.packages("https://cran.r-project.org/src/contrib/rgdal_1.4-8.tar.gz", type = 'source', repos = NULL)
+# rgeos
+install.packages("https://cran.r-project.org/src/contrib/rgeos_0.5-2.tar.gz", type = 'source', repos = NULL)
 # tidyr
 install.packages("https://cran.r-project.org/src/contrib/tidyr_1.0.0.tar.gz", type="source", repos=NULL)
 # purrr
