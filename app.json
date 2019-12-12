@@ -7,6 +7,9 @@
     "Dash R"
 ],
 "buildpacks": [
+  {
+    "url" : "https://github.com/cyberdelia/heroku-geo-buildpack.git"
+  },
     {
       "url": "https://github.com/virtualstaticvoid/heroku-buildpack-r.git#heroku-16"
     }
