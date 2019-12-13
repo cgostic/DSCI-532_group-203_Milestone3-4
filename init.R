@@ -51,6 +51,16 @@ install.packages("https://cran.r-project.org/src/contrib/Archive/sf/sf_0.3-1.tar
 install.packages("https://cran.r-project.org/src/contrib/rgdal_1.4-8.tar.gz", type = 'source', repos = NULL)
 # rgeos
 install.packages("https://cran.r-project.org/src/contrib/rgeos_0.5-2.tar.gz", type = 'source', repos = NULL)
+# ggrepel
+install.packages("https://cran.r-project.org/src/contrib/ggrepel_0.8.1.tar.gz", type = 'source', repos = NULL)
+# DBI
+install.packages("https://cran.r-project.org/src/contrib/DBI_1.0.0.tar.gz", type = 'source', repos = NULL)
+# units
+install.packages("https://cran.r-project.org/src/contrib/units_0.6-5.tar.gz", type = 'source', repos = NULL)
+# sp
+install.packages("https://cran.r-project.org/src/contrib/sp_1.3-2.tar.gz", type = 'source', repos = NULL)
+
+
 # tidyr
 install.packages("https://cran.r-project.org/src/contrib/tidyr_1.0.0.tar.gz", type="source", repos=NULL)
 # purrr
