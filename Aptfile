@@ -6,3 +6,6 @@ libv8-dev
 libjq-dev
 protobuf-compiler
 libudunits2-dev
+libgeos-dev
+libproj-dev
+libgdal-dev
