@@ -45,20 +45,20 @@ install.packages("later")
 # install.packages("https://cloud.r-project.org/src/contrib/Archive/future/future_1.11.1.1.tar.gz", type="source", repos=NULL)
 # # gghighlight
 # install.packages("https://cran.r-project.org/src/contrib/gghighlight_0.1.0.tar.gz", type="source", repos=NULL)
-# # sf
-# install.packages("https://cran.r-project.org/src/contrib/Archive/sf/sf_0.3-1.tar.gz", type="source", repos=NULL)
-# # rgdal
-# install.packages("https://cran.r-project.org/src/contrib/Archive/rgdal/rgdal_1.4-4.tar.gz", type = 'source', repos = NULL)
+# sf
+install.packages("https://cran.r-project.org/src/contrib/Archive/sf/sf_0.3-1.tar.gz", type="source", repos=NULL)
+# rgdal
+install.packages("https://cran.r-project.org/src/contrib/Archive/rgdal/rgdal_1.4-4.tar.gz", type = 'source', repos = NULL)
 # # rgeos
-install.packages("https://cran.r-project.org/src/contrib/rgeos_0.5-2.tar.gz", type = 'source', repos = NULL)
+# install.packages("https://cran.r-project.org/src/contrib/rgeos_0.5-2.tar.gz", type = 'source', repos = NULL)
 # ggrepel
-# install.packages("https://cran.r-project.org/src/contrib/ggrepel_0.8.1.tar.gz", type = 'source', repos = NULL)
-# # DBI
-# install.packages("https://cran.r-project.org/src/contrib/DBI_1.0.0.tar.gz", type = 'source', repos = NULL)
-# # units
-# install.packages("https://cran.r-project.org/src/contrib/units_0.6-5.tar.gz", type = 'source', repos = NULL)
-# # sp
-# install.packages("https://cran.r-project.org/src/contrib/sp_1.3-2.tar.gz", type = 'source', repos = NULL)
+install.packages("https://cran.r-project.org/src/contrib/ggrepel_0.8.1.tar.gz", type = 'source', repos = NULL)
+# DBI
+install.packages("https://cran.r-project.org/src/contrib/DBI_1.0.0.tar.gz", type = 'source', repos = NULL)
+# units
+install.packages("https://cran.r-project.org/src/contrib/units_0.6-5.tar.gz", type = 'source', repos = NULL)
+# sp
+install.packages("https://cran.r-project.org/src/contrib/sp_1.3-2.tar.gz", type = 'source', repos = NULL)
 # # geojsonio
 
 
