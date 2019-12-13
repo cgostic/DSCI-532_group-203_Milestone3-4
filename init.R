@@ -59,6 +59,8 @@ install.packages("https://cran.r-project.org/src/contrib/DBI_1.0.0.tar.gz", type
 install.packages("https://cran.r-project.org/src/contrib/units_0.6-5.tar.gz", type = 'source', repos = NULL)
 # sp
 install.packages("https://cran.r-project.org/src/contrib/sp_1.3-2.tar.gz", type = 'source', repos = NULL)
+# geojsonio
+install.packages("https://cran.r-project.org/src/contrib/geojsonio_0.8.0.tar.gz", type = 'source', repos = NULL)
 
 
 # tidyr
